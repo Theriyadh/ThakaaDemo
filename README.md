@@ -9,12 +9,12 @@ The video classification are using Keras (Tensorflow Backend) with some of apply
 
 ## Introduction
 
-1. The demo is combination by human activity classification (Football, Basketball) and Leagues and clubs classification. 
-2. The dataset was personally built on previous videos and frames were extracted (~3500 pictures) 
+1. The demo is a combination by human activitties classification (Football, Basketball) and Leagues and clubs classification. 
+2. The dataset was custom gather personally built on previous videos and frames were extracted (~3500 pictures) 
 3. The dataset was split into 4 Different Classes;
 ```
  A. Serie A: Ac Milan 
- B. Serie B: Inter Milan 
+ B. Serie A: Inter Milan 
  C. Saudi League: Alnasser 
  D. NBA: Golden State Worriers
  ```
