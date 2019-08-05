@@ -3,6 +3,7 @@ A simple custom demo in video classification and it is intended to purpose a add
 
 ## Getting Started
  IMPORTANT DOWNLOAD FULL FOLDER HERE: https://mega.nz/#F!FTJgnYYA!FnijsKnSEHXCHacDrgKE7w
+ 
 The video classification are using Keras (Tensorflow Backend) with some of applying Neural network architectures. The demo was inspired by (Large-scale Video Classification with Convolutional Neural Networks Research by Google and Stanford Univeristy) Hoever implementation is quite different (Paper https://cs.stanford.edu/people/karpathy/deepvideo/)
 
 
